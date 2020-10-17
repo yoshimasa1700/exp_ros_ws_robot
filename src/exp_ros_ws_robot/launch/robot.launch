@@ -1,0 +1,5 @@
+<launch>
+  <node name="diff_drive_controller_cellotape"
+        pkg="diff_drive_controller_cellotape"
+        type="diff_drive_controller_cellotape" />
+</launch>
